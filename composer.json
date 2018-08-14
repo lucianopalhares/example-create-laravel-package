@@ -1,0 +1,27 @@
+{
+    "name": "lucianopalhares/rexfilials",
+    "description": "Transactions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luciano Palhares",
+            "email": "lucianopalharesrosa@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravelcollective/html": "^5.6"
+    },
+    "autoload": {
+      "psr-4": {
+          "Lucianopalhares\\Rexfilials\\": "src/"
+      }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lucianopalhares\\Rexfilials\\RexFilialsServiceProvider"
+            ]
+        }
+    }
+}
