@@ -1,0 +1,7 @@
+https://laravelfactory.com/blog/step-by-step-guide-to-laravel-package-development
+
+https://medium.com/teknomuslim/how-to-build-your-own-laravel-package-chapter-1-9ffc0da9c04d
+
+https://wisdmlabs.com/blog/create-package-laravel/
+
+https://github.com/freshbitsweb/laravel-log-enhancer
